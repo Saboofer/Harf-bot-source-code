@@ -7,4 +7,6 @@ class MyClient(discord.Client):
         print('Message from {0.author}: {0.content}'.format(message))
 
 client = MyClient
-client.run('OTA0NzE3MjAyNzY1MjY3MDE2.YX_ljQ.2bqQUzR1L1t_lo9yqEVvk4Y-ebo')
+client.run('Token in #')
+
+# token is OTA0NzE3MjAyNzY1MjY3MDE2.YX_ljQ.4f2mcwjMbDErBigZrEiEt3-A5Pw
