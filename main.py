@@ -7,6 +7,6 @@ class MyClient(discord.Client):
         print('Message from {0.author}: {0.content}'.format(message))
 
 client = MyClient
-client.run('Token in #')
+client.run('Token')
 
-# token is OTA0NzE3MjAyNzY1MjY3MDE2.YX_ljQ.4f2mcwjMbDErBigZrEiEt3-A5Pw
+#token in my git profile
